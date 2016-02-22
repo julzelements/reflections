@@ -10,3 +10,14 @@ I'm still not entirely sure how the staging area fits into everything just yet.
 Compared to our engineering workflow, perhaps a commit is a solid version, staging is 0.2 etc.
 
 note: when prompted for the commit message in sublime: quit and the message will execute
+
+If I make changes to a couple of classes
+I could stage them one at a time to make sure that each change has a logical commit msg
+This way 1 change = 1 commit message
+
+branches are awesome!
+I'm going move the master branch of Pitch perfect off to the side
+Then I will add the button that plays reverb
+
+Then I will branch again to make my ultimate version!
+This will have some serious refactoring and experimenting. Sweet!
