@@ -1,0 +1,45 @@
+Viewing a diff between two versions is hella quick.
+Much less tedious.
+Easier on the eyes. 
+the command is diff a- file_1 file_2
+
+If I can revert to old versions I can "roll back" to see where my code broke
+I can explore risky moves without worrying about losing a copy of my working code
+It's like an undo button for all my code
+
+When would I want to save a version?
+Hmmm. I think all these options are good. 
+I would like to browe old version by date AND by change
+
+git diff is used to compare Commits through the Commit IDs
+
+So I should be committing each time I make a logical change
+This means a refactor of one thing
+Adding a new function or feature
+try to keep the commits as logical as possible and think about how someone else would make sense of it.
+
+So the question: Why does Git save multiple files in one commit? 
+A: Because the files are inter-related. You don't want an old version of a file with a new one.
+They may not work together.
+
+So now that I know that I can back track and fix stuff.
+I can code wildly now and refactor carefully later... sort of?
+It will be very useful for exploring tangents.
+
+I want to add an adventurous feature to the Pitch Perfect App, but I want to be safe
+Hopefully this will allow be to feel configent going forward.
+
+Okay new thing learned
+The order of the "diff" is important.
+the way to check for changes is diff "old" "new"
+This will show intoduced changes as + and deletions as -
+
+the commit that introduced the bug was "refactoring collision detecton"
+examine this commit and the one before it to identify the bug.
+
+Lesson 2:
+Thoughts on Initializing a repo
+git init will create a git repo inside the current directory
+this is a little .git (invisible) file
+nothing is added to this .git repo
+That has to be done manually
