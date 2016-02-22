@@ -1,0 +1,12 @@
+okay
+This is lesson 2
+
+creating it now for the sake of the exercise.
+
+I'm learning now about the staging area.
+This seems to be an intermediate step to decide what files will be commited to the repo.
+
+I'm still not entirely sure how the staging area fits into everything just yet. 
+Compared to our engineering workflow, perhaps a commit is a solid version, staging is 0.2 etc.
+
+note: when prompted for the commit message in sublime: quit and the message will execute
