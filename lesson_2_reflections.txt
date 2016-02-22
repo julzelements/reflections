@@ -21,3 +21,15 @@ Then I will add the button that plays reverb
 
 Then I will branch again to make my ultimate version!
 This will have some serious refactoring and experimenting. Sweet!
+
+So, merging hey.
+Seems a little optimistic. 
+BUt I guess on large projects everyone would be moving incrementally.
+Plus we would stop work when the merge breaks.
+
+Still, if people did serious refactoring, you might have to throw out a whole branch!
+Scary stuff. I think I'm down with this though.
+
+Automatic merging. Convenient as long as there is pretty clear communication and open working styles.
+I think that most of my engineering career will be useful with software development.
+Two people arguing about whose commit is better. Good god. I have to NOT be that guy.
