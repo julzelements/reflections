@@ -10,3 +10,13 @@ There are plenty of reasons. Plenty.
 Why would I want to selectively  pull?
 
 Pulling down automatically may overwrite code on my local machine that is WIP.
+
+Okay- forks clones and branches
+
+Lets say I want to use a swift library i found with a few tweaks added.
+But I also want to tweak that library with my fellow project collaborators
+That's a perfect job for FORK!
+
+Clones is when I want to pull that modded library down into my project locally and compile
+
+Branches. Well we use branches for trying new ideas mostly.
