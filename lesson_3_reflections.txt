@@ -1,4 +1,4 @@
-fSo why would I want a remote repository?
+So why would I want a remote repository?
 
 What if my house burns down? Or my computer explodes!
 Of course I may just want to use more than one computer.
@@ -20,3 +20,6 @@ That's a perfect job for FORK!
 Clones is when I want to pull that modded library down into my project locally and compile
 
 Branches. Well we use branches for trying new ideas mostly.
+
+What is the benefit of having a copy of the last known state of the remote locally?
+You can work offline and know that you are up to date.
