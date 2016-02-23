@@ -23,3 +23,9 @@ Branches. Well we use branches for trying new ideas mostly.
 
 What is the benefit of having a copy of the last known state of the remote locally?
 You can work offline and know that you are up to date.
+
+How would I collaborate without using GitHub? Hmm.
+Communication would be trickier. 
+Things would be done manually, files renames with version numbers.
+Probably need a full time document controller.
+Overall GitHub makes the world smaller.
